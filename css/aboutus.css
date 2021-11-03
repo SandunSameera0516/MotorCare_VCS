@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.history_headings{
+	font-family: 'Quicksand', sans-serif;
+  font-weight:600;
+  color:#06182d;
+  font-size:25px;
+
+}
+
+.history{
+	font-family: 'Quicksand', sans-serif;
+}
+
+.missionvision{
+	font-family: 'Quicksand', sans-serif;
+  font-weight:700;
+  color: #D92626;
+  font-size:25px;
+}
+
+.misiinvissiontxt{
+	font-family: 'Quicksand', sans-serif;
+  font-weight:600;
+  
+  
+}
+
+.ourmngteam{
+	background-color: #efefef;
+	margin-top:80px;
+}
+
+.mngteam{
+	font-family: 'Quicksand', sans-serif;
+  font-weight:600;
+  color: #D92626;
+  font-size:2rem;
+}
+
+.img_team{
+	width: 250px;
+	height: 250px;	
+}
+
+.exem{
+	font-family: 'Quicksand', sans-serif;
+    color: #D92626;
+  
+}
+
+.exp {
+	font-family: 'Quicksand', sans-serif;
+	font-weight:600;
+}
+
+.vision_mission{
+	margin-top:90px;
+	margin-bottom: 90px;
+}

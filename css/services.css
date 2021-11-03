@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+	font-family: 'Quicksand', sans-serif;
+	
+}
+
+.servicepage_headings{
+  font-weight: 700;
+  font-size:1.7rem;
+  color:#D92626;
+}
+
+.service_row{
+	
+	padding-bottom: 100px;
+}
+.divider{
+	padding-top:120px;
+}
+
+.cleaning_icons{
+	font-weight:700;
+}

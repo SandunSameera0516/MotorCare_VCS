@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.contact_img{
+  background-size: cover;
+  position: relative;
+  background-image:url('assets/images/breadcrumbimg.jpg');
+  height:200px;
+}
+
+.bredcontact{
+  position:absolute;
+  top:28%;
+}
+
+.contact_breadcrum {
+    background-color: transparent;
+    color: white;
+    font-size:15px;
+    margin: 0;
+    padding: 0;
+
+}
+
+.contact_bread_heading{
+  color:white;
+  font-weight:700;
+  font-family: 'Quicksand', sans-serif;
+  font-size:2rem;
+}
+
+.contact_breadcrum  .active {
+    color: #D92626;
+    font-weight: 600;
+}
+
+.breadcrumb-item a{
+  color: white;
+  font-weight: 600;
+}
+
+.breadcrumb-item a{
+  color: white;
+  font-weight: 600;
+}
+
+.breadcrumb-item a:hover{
+  text-decoration:none;
+}
+
+.contact_frm_map{
+  padding-top:150px;
+  padding-bottom:150px;
+}
+
+.contactForm{
+font-weight:700;
+  font-family: 'Quicksand', sans-serif;
+  color: #D92626;
+}
+
+.cntact_frm_head{
+  font-weight:700;
+  font-family: 'Quicksand', sans-serif;
+  font-size:2rem;
+  color: #06182d;
+}
+
+.map{
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+}
+@media (max-width:800px){
+
+  .contact_breadcrum{
+  justify-content: center;
+}
+}
